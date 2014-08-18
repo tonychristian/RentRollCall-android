@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Talk To Tenants</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="remember_me">New CheckBox</string>
+    <string name="search_contacts_text_view">Search your contacts</string>
+    <string name="enter_name_button_text">Go</string>
+
+</resources>
